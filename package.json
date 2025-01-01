@@ -1,32 +1,41 @@
 {
-  "name": "rtdashboard",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+  "name": "academic-pages",
+  "version": "0.8.1.1",
+  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/academicpages/academicpages.github.io"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "minimal"
+  ],
+  "contributors": [
+    "Michael Rose",
+    "Robert Zupko"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+  },
+  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "dependencies": {
-    "chart.js": "^4.4.3",
-    "react": "^18.3.1",
-    "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.3.1",
-    "react-icons": "^5.2.1"
+    "fitvids": "^2.1.1",
+    "jquery": "^3.7.1",
+    "jquery-smooth-scroll": "^2.2.0",
+    "magnific-popup": "^1.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "autoprefixer": "^10.4.20",
-    "eslint": "^8.57.0",
-    "eslint-plugin-react": "^7.34.2",
-    "eslint-plugin-react-hooks": "^4.6.2",
-    "eslint-plugin-react-refresh": "^0.4.7",
-    "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.17",
-    "vite": "^5.3.1"
+    "onchange": "^7.1.0",
+    "uglify-js": "^3.17.4"
+  },
+  "scripts": {
+    "uglify": "uglifyjs node_modules/jquery/dist/jquery.min.js node_modules/fitvids/dist/fitvids.min.js node_modules/magnific-popup/dist/jquery.magnific-popup.min.js node_modules/jquery-smooth-scroll/jquery.smooth-scroll.min.js assets/js/plugins/jquery.greedy-navigation.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
+    "build:js": "npm run uglify"
   }
 }
