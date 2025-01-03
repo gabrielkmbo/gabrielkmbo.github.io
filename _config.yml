@@ -21,22 +21,22 @@ repository               : "gabrielkmbo/gabrielkmbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Gabriel Bo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Stanford Student | Software Engineer | ML Researcher | Global Affairs Enthusiast | Follower and Learner of Christ | Currently working on PocketChange - a fintech startup."
+  location         : "Plano, TX & Stanford, CA"
+  employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gabebo@stanford.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,21 +46,21 @@ author:
   dribbble         : # Username
   github           : "gabrielkmbo"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : 29015432/gabriel-bo 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # gabriel.bo0496
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # gabekmbo
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : www.linkedin.com/in/gabriel-bo
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://medium.com/@gabrielkmbo
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : gabebo9445
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
