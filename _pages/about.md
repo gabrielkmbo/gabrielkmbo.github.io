@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am currently a 2nd Year Stanford University student studying Computer Science with a concentration in artificial intelligence and systems design. I am also double-majoring in International Relations-- particularly in global securities. Working in a Hoover Institute lab with Sergey Sanovich developing detection AI systems for LLM generated content on foreign popaganda. 
 
 Previously worked under Neil Malhotra on fine-tuning LLMs on Supreme Court data and prediction systems. Interested in NLPs, CV, Deep Learning, software engineering, full-stack development, start-ups, entrepreneurship, and global affairs. In my free time I read books about apologetics, Christian theology, watch movies, cook, and play soccer. 
