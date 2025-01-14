@@ -58,5 +58,5 @@ Here are some of the skills I have used in personal projects, internships, and r
 ---
 
 <span style="font-size: 0.8em;">
-**Skills:** AWS, Azure, C, C++, CSS, Docker, EC2, Firebase, Flutter, GCP, Git, GitHub, GitLab, HTML, Hugging Face, Java, JavaScript, Jenkins, Kotlin, Linux, Node.js, NPM, PostgreSQL, Python, PyTorch, R, React, Redis, Stata, Swift, TensorFlow, TypeScript | Languages: Mandarin Chinese | Public Speaking, Leadership
+**Skills:** AWS, Azure, C, C++, CSS, Docker, EC2, Firebase, Flutter, GCP, Git, GitHub, GitLab, HTML, Hugging Face, Java, JavaScript, Jenkins, Kotlin, Linux, Node.js, NPM, PostgreSQL, Python, PyTorch, R, React, Redis, Stata, Swift, TensorFlow, TypeScript | Languages: Fluent in Mandarin Chinese | Public Speaking, Leadership
 </span>
