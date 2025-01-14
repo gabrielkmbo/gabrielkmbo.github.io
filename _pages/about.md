@@ -36,33 +36,35 @@ I am currently a 2nd Year Stanford University student studying Computer Science.
 
 ## Skills
 
-![AWS Icon](images/aws.png "AWS")
-![Azure Icon](images/azure.png "Azure")
-![C Icon](images/c.png "C")
-![C++ Icon](images/cpp.png "C++")
-![CSS Icon](images/css.png "CSS")
-![Docker Icon](images/docker.png "Docker")
-![EC2 Icon](images/ec2.png "EC2")
-![Flutter Icon](images/flutter.png "Flutter")
-![GCP Icon](images/gcp.png "GCP")
-![Git Icon](images/git.png "Git")
-![GitHub Icon](images/github.png "GitHub")
-![GitLab Icon](images/gitlab.png "GitLab")
-![HTML Icon](images/html.png "HTML")
-![Hugging Face Icon](images/hugging-face.png "Hugging Face")
-![Java Icon](images/java.png "Java")
-![JavaScript Icon](images/javascript.png "JavaScript")
-![Kotlin Icon](images/kotlin.png "Kotlin")
-![Node.js Icon](images/nodejs.png "Node.js")
-![NPM Icon](images/npm.png "NPM")
-![PostgreSQL Icon](images/postgre.png "PostgreSQL")
-![Python Icon](images/python.png "Python")
-![PyTorch Icon](images/pytorch.png "PyTorch")
-![R Icon](images/r.png "R")
-![React Icon](images/react.png "React")
-![Redis Icon](images/redis.png "Redis")
-![Stata Icon](images/stata.png "Stata")
-![Swift Icon](images/swift.png "Swift")
-![TensorFlow Icon](images/tensorflow.png "TensorFlow")
-![TypeScript Icon](images/typscript.png "TypeScript")
+<p align="left">
+  <img src="images/aws.png" alt="AWS Icon" title="AWS" width="40" height="40" />
+  <img src="images/azure.png" alt="Azure Icon" title="Azure" width="40" height="40" />
+  <img src="images/c.png" alt="C Icon" title="C" width="40" height="40" />
+  <img src="images/cpp.png" alt="C++ Icon" title="C++" width="40" height="40" />
+  <img src="images/css.png" alt="CSS Icon" title="CSS" width="40" height="40" />
+  <img src="images/docker.png" alt="Docker Icon" title="Docker" width="40" height="40" />
+  <img src="images/ec2.png" alt="EC2 Icon" title="EC2" width="40" height="40" />
+  <img src="images/flutter.png" alt="Flutter Icon" title="Flutter" width="40" height="40" />
+  <img src="images/gcp.png" alt="GCP Icon" title="GCP" width="40" height="40" />
+  <img src="images/git.png" alt="Git Icon" title="Git" width="40" height="40" />
+  <img src="images/github.png" alt="GitHub Icon" title="GitHub" width="40" height="40" />
+  <img src="images/gitlab.png" alt="GitLab Icon" title="GitLab" width="40" height="40" />
+  <img src="images/html.png" alt="HTML Icon" title="HTML" width="40" height="40" />
+  <img src="images/hugging-face.png" alt="Hugging Face Icon" title="Hugging Face" width="40" height="40" />
+  <img src="images/java.png" alt="Java Icon" title="Java" width="40" height="40" />
+  <img src="images/javascript.png" alt="JavaScript Icon" title="JavaScript" width="40" height="40" />
+  <img src="images/kotlin.png" alt="Kotlin Icon" title="Kotlin" width="40" height="40" />
+  <img src="images/nodejs.png" alt="Node.js Icon" title="Node.js" width="40" height="40" />
+  <img src="images/npm.png" alt="NPM Icon" title="NPM" width="40" height="40" />
+  <img src="images/postgre.png" alt="PostgreSQL Icon" title="PostgreSQL" width="40" height="40" />
+  <img src="images/python.png" alt="Python Icon" title="Python" width="40" height="40" />
+  <img src="images/pytorch.png" alt="PyTorch Icon" title="PyTorch" width="40" height="40" />
+  <img src="images/r.png" alt="R Icon" title="R" width="40" height="40" />
+  <img src="images/react.png" alt="React Icon" title="React" width="40" height="40" />
+  <img src="images/redis.png" alt="Redis Icon" title="Redis" width="40" height="40" />
+  <img src="images/stata.png" alt="Stata Icon" title="Stata" width="40" height="40" />
+  <img src="images/swift.png" alt="Swift Icon" title="Swift" width="40" height="40" />
+  <img src="images/tensorflow.png" alt="TensorFlow Icon" title="TensorFlow" width="40" height="40" />
+  <img src="images/typescript.png" alt="TypeScript Icon" title="TypeScript" width="40" height="40" />
+</p>
 
