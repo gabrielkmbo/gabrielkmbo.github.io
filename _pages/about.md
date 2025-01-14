@@ -20,22 +20,6 @@ Currently working on projects regarding deep-learning, fintech, and NLPs. Learn 
 
 Here are some of the skills I have used in personal projects, internships, and research:
 
-<!-- You can add alt text or descriptive text for accessibility, for example: -->
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-I am currently a 2nd Year Stanford University student studying Computer Science...
-
-<!-- Existing content above... -->
-
-## Skills
-
 <p align="left">
   <img src="images/aws.png" alt="AWS Icon" title="AWS" width="40" height="40" />
   <img src="images/azure.png" alt="Azure Icon" title="Azure" width="40" height="40" />
