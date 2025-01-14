@@ -28,6 +28,7 @@ Here are some of the skills I have used in personal projects, internships, and r
   <img src="images/css.png" alt="CSS Icon" title="CSS" width="40" height="40" />
   <img src="images/docker.png" alt="Docker Icon" title="Docker" width="40" height="40" />
   <img src="images/ec2.png" alt="EC2 Icon" title="EC2" width="40" height="40" />
+  <img src="images/firebase.png" alt="Firebase Icon" title="Firebase" width="40" height="40" />
   <img src="images/flutter.png" alt="Flutter Icon" title="Flutter" width="40" height="40" />
   <img src="images/gcp.png" alt="GCP Icon" title="GCP" width="40" height="40" />
   <img src="images/git.png" alt="Git Icon" title="Git" width="40" height="40" />
@@ -37,7 +38,9 @@ Here are some of the skills I have used in personal projects, internships, and r
   <img src="images/hugging-face.png" alt="Hugging Face Icon" title="Hugging Face" width="40" height="40" />
   <img src="images/java.png" alt="Java Icon" title="Java" width="40" height="40" />
   <img src="images/javascript.png" alt="JavaScript Icon" title="JavaScript" width="40" height="40" />
+  <img src="images/jenkins.png" alt="Jenkins Icon" title="Jenkins" width="40" height="40" />
   <img src="images/kotlin.png" alt="Kotlin Icon" title="Kotlin" width="40" height="40" />
+  <img src="images/linux.png" alt="Linux Icon" title="Linux" width="40" height="40" />
   <img src="images/nodejs.png" alt="Node.js Icon" title="Node.js" width="40" height="40" />
   <img src="images/npm.png" alt="NPM Icon" title="NPM" width="40" height="40" />
   <img src="images/postgre.png" alt="PostgreSQL Icon" title="PostgreSQL" width="40" height="40" />
@@ -52,3 +55,8 @@ Here are some of the skills I have used in personal projects, internships, and r
   <img src="images/typescript.png" alt="TypeScript Icon" title="TypeScript" width="40" height="40" />
 </p>
 
+---
+
+<span style="font-size: 0.8em;">
+**Skills:** AWS, Azure, C, C++, CSS, Docker, EC2, Firebase, Flutter, GCP, Git, GitHub, GitLab, HTML, Hugging Face, Java, JavaScript, Jenkins, Kotlin, Linux, Node.js, NPM, PostgreSQL, Python, PyTorch, R, React, Redis, Stata, Swift, TensorFlow, TypeScript | Languages: Mandarin Chinese | Public Speaking, Leadership
+</span>
