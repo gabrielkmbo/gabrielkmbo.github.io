@@ -14,3 +14,13 @@ Previously worked under Neil Malhotra on fine-tuning LLMs on Supreme Court data 
 Currently working as a technical Co-Founder and CTO of PocketChange. A digital gift card trading and transaction platform that allow users to store their gift cards on a digital wallet, trade them with other users, and even liquify it. Building the API that help businesses track key insights on consumer spending and habits. A seed funded startup receiving $50,000 from Buc Ventures, was in the final interview round of YC (W25) and Techstars NYC (both top 1% of 10,000+ applicants). Experienced in software engineering, fullstack development, algorithms, and end-to-end DevOp architecture.
 
 Currently working on projects regarding deep-learning, fintech, and NLPs. Learn more about me by checking out my experiences above or contacting me via my email (gabebo@stanford.edu).
+
+
+## Skills
+
+Here are some of the skills I have used in personal projects, internships, and research.:
+
+<!-- You can add alt text or descriptive text for accessibility, for example: -->
+![HTML 5 Icon](images/html.png "HTML")
+![CSS 3 Icon](pimages/css.png "CSS")
+![JavaScript Icon](images/javascript.png "JavaScript")
