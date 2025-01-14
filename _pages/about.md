@@ -18,9 +18,51 @@ Currently working on projects regarding deep-learning, fintech, and NLPs. Learn 
 
 ## Skills
 
-Here are some of the skills I have used in personal projects, internships, and research.:
+Here are some of the skills I have used in personal projects, internships, and research:
 
 <!-- You can add alt text or descriptive text for accessibility, for example: -->
-![HTML 5 Icon](images/html.png "HTML")
-![CSS 3 Icon](pimages/css.png "CSS")
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am currently a 2nd Year Stanford University student studying Computer Science...
+
+<!-- Existing content above... -->
+
+## Skills
+
+![AWS Icon](images/aws.png "AWS")
+![Azure Icon](images/azure.png "Azure")
+![C Icon](images/c.png "C")
+![C++ Icon](images/cpp.png "C++")
+![CSS Icon](images/css.png "CSS")
+![Docker Icon](images/docker.png "Docker")
+![EC2 Icon](images/ec2.png "EC2")
+![Flutter Icon](images/flutter.png "Flutter")
+![GCP Icon](images/gcp.png "GCP")
+![Git Icon](images/git.png "Git")
+![GitHub Icon](images/github.png "GitHub")
+![GitLab Icon](images/gitlab.png "GitLab")
+![HTML Icon](images/html.png "HTML")
+![Hugging Face Icon](images/hugging-face.png "Hugging Face")
+![Java Icon](images/java.png "Java")
 ![JavaScript Icon](images/javascript.png "JavaScript")
+![Kotlin Icon](images/kotlin.png "Kotlin")
+![Node.js Icon](images/nodejs.png "Node.js")
+![NPM Icon](images/npm.png "NPM")
+![PostgreSQL Icon](images/postgre.png "PostgreSQL")
+![Python Icon](images/python.png "Python")
+![PyTorch Icon](images/pytorch.png "PyTorch")
+![R Icon](images/r.png "R")
+![React Icon](images/react.png "React")
+![Redis Icon](images/redis.png "Redis")
+![Stata Icon](images/stata.png "Stata")
+![Swift Icon](images/swift.png "Swift")
+![TensorFlow Icon](images/tensorflow.png "TensorFlow")
+![TypeScript Icon](images/typscript.png "TypeScript")
+
