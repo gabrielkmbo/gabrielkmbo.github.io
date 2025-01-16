@@ -1,11 +1,22 @@
 ---
-title: "Soap Store"
+title: "Wikiscraper"
 excerpt: "
-OnlineSoapShop is a Java web application designed to facilitate the sale of soap for a fundraiser, leveraging databases to store customer information and product lines. Utilized Sprint Boot, SQL, Postrge, Postman, Docker, and many other SWE applications. The project is primarily developed in Java and includes features such as user registration, product catalog, shopping cart, order tracking, and an admin panel for managing products and orders.
+Developed a novel program in C++ to find link ladders between two Wikipedia pages using an intelligent algorithm to identify optimal paths. This project involved leveraging core C++ features such as iterators, algorithms, and containers to efficiently traverse and analyze graph-like structures. The program not only enhanced problem-solving and algorithmic design skills but also deepened expertise in fundamental C++ concepts.
 
 
- <br/><img src='/images/500x300.png'>"
+
+ <br/><img src='/images/wikiscraper.png'>"
 collection: portfolio
 ---
+[Visit the GitHub Repository](https://github.com/gabrielkmbo/wikiscraper)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Stack
+
+Here are the technologies used in this project:
+
+<p>
+  <img src="/images/cpp.png" alt="C++" title="C++" width="40" height="40" />
+  <img src="/images/c.png" alt="C" title="C" width="40" height="40" />
+  <img src="/images/html.png" alt="HTML" title="HTML" width="40" height="40" />
+  <img src="/images/linux.png" alt="Linux" title="Linux" width="40" height="40" />
+</p>
