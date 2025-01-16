@@ -9,6 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Resume</title>
+    <style>
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <!-- Button to Open Resume -->
+    <button onclick="window.open('https://drive.google.com/file/d/1m3-8YWW8AYErgc1FhLVX9x1vkqvqSYdf/view?usp=sharing', '_blank')">Download Resume</button>
+</body>
+</html>
+
+
 ## **Education**  
 **Stanford University**  
 **B.S. Computer Science – Artificial Intelligence & Systems Track** | **GPA**: 4.0/4.0  
@@ -108,13 +136,11 @@ redirect_from:
 - **2023 Texas State 2nd Place Runner Up in International Extemporaneous Speaking** – Texas Forensics Association (TFA).  
 - **2023 National 3rd Place in Extemporaneous Speaking at the Barkley Forum** – Emory University.  
 - **2023 National Round Robin 5th Place** – Montgomery Bell Academy (MBA) Round Robin.  
+- **3x American Invitational Mathematics Examination (AIME) Qualifier** – Top 2.5% of high school math students (2020, 2021, 2022). 
 - **2022 National Champion in United States Extemporaneous Speaking at the Longhorn Classic** – University of Texas in Austin.  
 - **2022 National 6th Place in International Extemporaneous Speaking** – NSDA.  
 - **2022 NIETOC National Champion in Extemporaneous Speaking** – NIETOC. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live/6auFFKVEkhk?si=Mz4uxWb9YfSRLcMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- **2022 Global Academic WorldQuest Competition 2nd Place Runner Up** – World Affairs Council.  
-- **3x American Invitational Mathematics Examination (AIME) Qualifier** – Top 2.5% of high school math students (2022).  
+- **2022 Global Academic WorldQuest Competition 2nd Place Runner Up** – World Affairs Council.   
 - **2022 National Runner Up in Extemporaneous Speaking at the Barkley Forum** – Emory University.  
 
 ---
