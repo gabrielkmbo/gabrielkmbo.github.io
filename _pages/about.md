@@ -16,6 +16,12 @@ Currently working as a technical Co-Founder and CTO of PocketChange. A digital g
 Currently working on projects regarding deep-learning, fintech, and NLPs. Learn more about me by checking out my experiences above or contacting me via my email (gabebo@stanford.edu).
 
 
+<p align="center">
+  <img src="images/timeline.png" alt="Timeline" title="Timeline"/>
+</p>
+
+
+
 ## Skills
 
 Here are some of the skills I have used in personal projects, internships, and research:
