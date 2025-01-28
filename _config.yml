@@ -24,7 +24,10 @@ author:
   avatar           : "profile.JPG"
   name             : "Gabriel Bo"
   pronouns         : # example: "she/her"  
-  bio              : "Stanford Student | Software Engineer | ML Researcher | Global Affairs Enthusiast | Follower and Learner of Christ | Currently working on PocketChange - a fintech startup."
+  bio              : |
+    Stanford University (CS Undergrad) 
+    ML | SWE | Research | NLP | ✝ | IR
+    gabebo [at] stanford [dot] edu
   location         : "Plano, TX & Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
