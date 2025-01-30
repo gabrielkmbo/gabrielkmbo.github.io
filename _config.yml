@@ -25,12 +25,11 @@ author:
   name             : "Gabriel Bo"
   pronouns         : # example: "she/her"  
   bio              : |
-    Stanford University (CS Undergrad) 
-    ML | SWE | Research | NLP | ✝ | IR
-    gabebo [at] stanford [dot] edu
+    Stanford University (CS - AI & Systems) 
+    gabebo [at] stanford.edu
   location         : "Plano, TX & Stanford, CA"
   employer         : "Stanford University"
-  uri              : # URL
+  uri              : gabrielkmbo.github.io
   email            : "gabebo@stanford.edu" 
 
   # Academic websites
